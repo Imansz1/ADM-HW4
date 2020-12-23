@@ -1,7 +1,7 @@
 <h1><center>Homework 4 - READ ME</center></h1> 
 <center><img src="img/guy_reads.gif" alt="Drawing" style="width: 200px;"/></center>
 
-##### **Authors:** Daniel Jiménez & Bertrand Leclercq & Iman Sayyadzadeh
+##### **Authors:** Daniel Jiménez & Bertrand Leclercq & Mohammad Iman Sayyadzadeh
 ##### **Date:** 2020/12/23
 ##### **Subject:** Algorithmic Methods of Data Mining
 ##### **Data Science Master's programme**
